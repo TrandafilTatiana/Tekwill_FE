@@ -95,7 +95,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 16,
 
   "workbench.colorTheme": "Default Dark+",
 
