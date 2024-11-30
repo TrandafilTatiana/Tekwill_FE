@@ -6,4 +6,3 @@ This is my first comment.
 
 First pull request
 We are great!
-All of us!
